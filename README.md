@@ -9,3 +9,7 @@ Experimental Results: The custom CNN achieved strong performance, particularly o
 
 ![image](https://github.com/user-attachments/assets/83966e74-1281-464c-b2f9-8cb611d6d922)
 
+
+**Dataset** - We used a publicly available dataset consisting of labeled eye images with corresponding hemoglobin levels. For this project, we framed it as a binary classification problem grouping images into two classes: non anemic and anemic. The dataset includes a diverse range of eye images, captured under varying lighting and imaging conditions, which makes it well - suited for building a model intended for real-world use.
+
+ **Refer to the report and ipynb file for more details**
